@@ -1,4 +1,5 @@
 # Shivam, Android Developer
+![<Badge Name>](https://img.shields.io/badge/Hello-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 
 Greetings! Welcome to my GitHub profile. I am Shivam, a highly motivated 3rd-year BE Computer Science and Engineering student with a keen interest in Android app development using Flutter. With over 8 months of experience, I have successfully launched the 'Cu Sync' app on the Play Store.
 
