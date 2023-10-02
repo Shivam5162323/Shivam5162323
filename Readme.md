@@ -1,6 +1,11 @@
 # Shivam, Android Developer
 ![Flutter Developer](https://img.shields.io/badge/Flutter%20Developer-blue?style=for-the-badge&logo=flutter&logoColor=white)
 
+![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-green?style=for-the-badge&logo=linux&logoColor=white)
+
+
 Greetings! Welcome to my GitHub profile. I am Shivam, a highly motivated 3rd-year BE Computer Science and Engineering student with a keen interest in Android app development using Flutter. With over 8 months of experience, I have successfully launched the 'Cu Sync' app on the Play Store.
 
 ## About Me
