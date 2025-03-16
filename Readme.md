@@ -3,10 +3,9 @@
 
 ![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase&logoColor=white)
 
-![Kali Linux](https://w7.pngwing.com/pngs/313/385/png-transparent-kali-linux-backtrack-penetration-test-ubuntu-sick-branch-monochrome-vertebrate.png?style=for-the-badge&logo=linux&logoColor=white)
 
 
-Greetings! Welcome to my GitHub profile. I am Shivam, a highly motivated 4th-year BE Computer Science and Engineering student with a keen interest in Android app development using Flutter. With over 2 years of experience, I have successfully launched the 'Cu Sync' app on the Play Store and created various apps.
+Greetings! Welcome to my GitHub profile. I am Shivam, a highly motivated 4th-year BE Computer Science and Engineering student with a keen interest in Android app development using Flutter. With over 2 years of experience, I have successfully launched the 'Reder' and 'Cu Sync' app on the Play Store and created various apps.
 
 ## About Me
 I am passionate about creating user-friendly and efficient mobile applications. My academic background has provided me with a strong foundation in computer science, and I am now actively seeking a challenging internship opportunity in Android development to further enhance my skills and contribute to cutting-edge mobile app projects.
