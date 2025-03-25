@@ -37,4 +37,4 @@ A front-end food vendor website homepage.
 - Operating Systems: Windows, Kali Linux
 - Frameworks: Bootstrap, Flutter, Unreal Engine 5
 
-Feel free to explore my repositories and projects. If you have any questions or collaboration opportunities, please to reach out to me at vendvl.0@gmail.com.
+Feel free to explore my repositories and projects. If you have any questions or collaboration opportunities, please reach out to me at vendvl.0@gmail.com.
