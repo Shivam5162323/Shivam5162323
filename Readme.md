@@ -1,40 +1,60 @@
-# Shivam, Android Developer
-![Flutter Developer](https://img.shields.io/badge/Flutter%20Developer-blue?style=for-the-badge&logo=flutter&logoColor=white)
+```
+███████╗██╗  ██╗██╗██╗   ██╗ █████╗ ███╗   ███╗
+██╔════╝██║  ██║██║██║   ██║██╔══██╗████╗ ████║
+███████╗███████║██║██║   ██║███████║██╔████╔██║
+╚════██║██╔══██║██║╚██╗ ██╔╝██╔══██║██║╚██╔╝██║
+███████║██║  ██║██║ ╚████╔╝ ██║  ██║██║ ╚═╝ ██║
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝  ╚═╝  ╚═╝╚═╝     ╚═╝
+```
 
-![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase&logoColor=white)
+> *I build things when something annoys me enough.*
 
+---
 
+### what i do
 
-Greetings! Welcome to my GitHub profile. I am Shivam, a highly motivated 4th-year BE Computer Science and Engineering student with a keen interest in Android app development using Flutter. With over 2 years of experience, I have successfully launched the 'Reder' and 'Cu Sync' app on the Play Store and created various apps.
+security-minded developer. i break systems to understand them, then build tools so the next time is easier.
 
-## About Me
-I am passionate about creating user-friendly and efficient mobile applications. My academic background has provided me with a strong foundation in computer science, and I am now actively seeking a challenging internship opportunity in Android development to further enhance my skills and contribute to cutting-edge mobile app projects.
+comfortable across the stack — python backends, flutter apps, local llm pipelines, kali terminals.
 
-## Projects
+---
 
-### Reder
-A pdf/book manager app that helps to sync pdfs various devices in realtime also organize and manage them. 
-- Technology Used: Flutter, Dart, Firebase
-- [Download Reder](https://play.google.com/store/apps/details?id=com.vendvl.bookmanager)
+### things i've built
 
-### Cu Sync
-A news app that serves as a one-stop-shop for students who want to stay informed about everything that's happening on campus.
-- Technology Used: Flutter, Dart, Firebase
-- [Download Cu Sync](https://play.google.com/store/apps/details?id=com.cmps.news)
+**[Ress](https://github.com/Shivam5162323)** — a cybersecurity workspace  
+notes, files, version history. built for how security people actually think.  
+ships with **IRES** (RAG over your own notes via local ollama) and **GENOS** (browser toolkit — hashes, EXIF, payloads, kali presets).
 
-### Ink Link
-A real-time chatting application with a collaborative whiteboard to share ideas creatively.
-- Technology Used: Flutter, Dart, Firebase
+**[Reder](https://play.google.com/store/apps/details?id=com.vendvl.bookmanager)** — on the play store  
+flutter app to manage and sync PDFs and Excel files across devices. supabase + firebase under the hood.
 
-### VenDShop
-A front-end food vendor website homepage.
-- Technology Used: Bootstrap, HTML, CSS
-- [View VenDShop](http://ven.epizy.com/vendshop/homepage.html)
+**[INK-LINK](https://github.com/Shivam5162323/INK-LINK)** — real-time whiteboard + chat  
+split-screen whiteboard, stories, cross-language chat, follow system.
 
-## Skills
-- Languages: C++, Java, Python
-- Database: MySQL, PL/SQL, Firebase
-- Operating Systems: Windows, Kali Linux
-- Frameworks: Bootstrap, Flutter, Unreal Engine 5
+---
 
-Feel free to explore my repositories and projects. If you have any questions or collaboration opportunities, please reach out to me at vendvl.0@gmail.com.
+### stack
+
+```
+languages  →  python  dart  c++  sql  javascript
+security   →  kali linux  burp suite  vapt  osint
+mobile     →  flutter  firebase  supabase
+backend    →  flask  sqlite  rest apis
+ai/ml      →  rag  vector search  ollama  local llms
+```
+
+---
+
+### certs
+
+- eJPT — Junior Penetration Tester · eLearnSecurity  
+- Android App Development · Meta  
+- Flutter Development · Google Cloud
+
+---
+
+<p align="center">
+  <a href="mailto:shivam5162323@gmail.com">email</a> ·
+  <a href="https://linkedin.com/in/shivam-1905811b2">linkedin</a> ·
+  <a href="https://github.com/Shivam5162323">github</a>
+</p>
